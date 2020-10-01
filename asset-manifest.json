@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Try-app/static/css/main.bc38e607.chunk.css",
+    "main.js": "/Try-app/static/js/main.74970bbd.chunk.js",
+    "main.js.map": "/Try-app/static/js/main.74970bbd.chunk.js.map",
+    "runtime-main.js": "/Try-app/static/js/runtime-main.832694c3.js",
+    "runtime-main.js.map": "/Try-app/static/js/runtime-main.832694c3.js.map",
+    "static/js/2.76b20dbe.chunk.js": "/Try-app/static/js/2.76b20dbe.chunk.js",
+    "static/js/2.76b20dbe.chunk.js.map": "/Try-app/static/js/2.76b20dbe.chunk.js.map",
+    "index.html": "/Try-app/index.html",
+    "precache-manifest.3e366a82a685feb9e4e4ecb06b688f38.js": "/Try-app/precache-manifest.3e366a82a685feb9e4e4ecb06b688f38.js",
+    "service-worker.js": "/Try-app/service-worker.js",
+    "static/css/main.bc38e607.chunk.css.map": "/Try-app/static/css/main.bc38e607.chunk.css.map",
+    "static/js/2.76b20dbe.chunk.js.LICENSE.txt": "/Try-app/static/js/2.76b20dbe.chunk.js.LICENSE.txt",
+    "static/media/furniture.mp4": "/Try-app/static/media/furniture.db21e780.mp4",
+    "static/media/logo.svg": "/Try-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832694c3.js",
+    "static/js/2.76b20dbe.chunk.js",
+    "static/css/main.bc38e607.chunk.css",
+    "static/js/main.74970bbd.chunk.js"
+  ]
+}
